@@ -29,7 +29,7 @@ XIN 강의의 사진과 영상(음성)을 자동으로 다운로드 해주는 �
 
 잘 모르겠다면 위에 issues를 눌러 질문을 남기거나 컴잘알에게 물어보자.
 
-## 사용법
+## 나름 파이썬 다뤄봤다는 사람을 위한 사용법
 
 0. [Python을 설치](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe)한다
 > Add Python3.x to PATH 는 꼭 클릭한다.
