@@ -29,13 +29,13 @@ pip3 install -r requirement.txt
 
 4. XIN 강의의 html을 긁어오자.
 
-4-1. XIN 강의로 들어가서 F12를 누른다.
+> 4-1. XIN 강의로 들어가서 F12를 누른다.
 
-4-2. Elements를 누르고 ``<html class=``에서 우클릭을 하고 ``Edit as HTML``을 누른다.
+> 4-2. Elements를 누르고 ``<html class=``에서 우클릭을 하고 ``Edit as HTML``을 누른다.
 
-4-3. Ctrl+A(전체선택) 후 Ctrl+C(복사) 한다.
+> 4-3. Ctrl+A(전체선택) 후 Ctrl+C(복사) 한다. 
 
-4-4. data 폴더 아래의 xinhtml.txt 파일에 Ctrl+V(붙여넣기) 한다.
+> 4-4. data 폴더 아래의 xinhtml.txt 파일에 Ctrl+V(붙여넣기) 한다.
 
 5. 다음 명령어를 이용하여 프로그램을 돌린다
 
