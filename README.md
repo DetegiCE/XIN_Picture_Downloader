@@ -12,7 +12,7 @@ XIN 강의의 사진과 영상(음성)을 자동으로 다운로드 해주는 �
 1. 해당 repository를 git으로 clone 또는 [download](https://github.com/DetegiCE/XIN_Picture_Downloader/archive/master.zip)한다
 
 2. 터미널을 이용하여 해당 폴더에 접근한다.
-> 혹은 탐색기를 C://xxx/XIN_Picture/Downloader 에 위치시킨 후 주소창을 클릭한 후 "cmd ."을 입력하고 Enter를 입력한다
+> 혹은 탐색기를 C://xxx/XIN_Picture_Downloader 에 위치시킨 후 주소창을 클릭한 후 "cmd ."을 입력하고 Enter를 입력한다
 
 3. 다음과 같이 라이브러리를 설치한다.
 > BeautifulSoup4가 이미 깔려있으신 개발자 분께서는 이 과정을 스킵하셔도 됩니다.
