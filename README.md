@@ -6,7 +6,7 @@ XIN 강의의 사진과 영상(음성)을 자동으로 다운로드 해주는 �
 
 음성 다운로드 시에는 오래걸리니 왜 안움직이지? 오류났나? 하고 프로그램 종료하는 불상사가 없길 바랍니다.
 
-## 컴알못을 위한 사용법 1.0
+## 컴알못을 위한 사용법 1.1
 
 0. [파이썬 설치하기](https://wikidocs.net/8)
 
@@ -14,7 +14,7 @@ XIN 강의의 사진과 영상(음성)을 자동으로 다운로드 해주는 �
 
 2. 다운로드 하고 바탕화면으로 옮기자.
 
-3. [이 링크로](https://studyhard24.tistory.com/234)가서 설치까지만 하자.
+3. [이 링크로](https://studyhard24.tistory.com/234)가서 설치까지만 하고, [이 링크](https://kamang-it.tistory.com/entry/PIL-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%ED%95%98%EA%B8%B0image-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C-%ED%95%98%EA%B8%B0)로 가서 하나 더 설치하자.
 
 4. 윈도우+R을 눌러 ``cmd`` 작성 후 엔터
 
