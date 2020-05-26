@@ -1,10 +1,12 @@
-# XIN_Picture_Downloader
+# XIN_Picture_Downloader 1.1
 
 XIN 강의의 사진과 영상(음성)을 자동으로 다운로드 해주는 프로그램입니다.
 
+1.1 업데이트) 이제 사진들을 pdf로 묶어줍니다!
+
 음성 다운로드 시에는 오래걸리니 왜 안움직이지? 오류났나? 하고 프로그램 종료하는 불상사가 없길 바랍니다.
 
-## 컴알못을 위한 사용법
+## 컴알못을 위한 사용법 1.0
 
 0. [파이썬 설치하기](https://wikidocs.net/8)
 
@@ -33,7 +35,7 @@ XIN 강의의 사진과 영상(음성)을 자동으로 다운로드 해주는 �
 
 잘 모르겠다면 위에 issues를 눌러 질문을 남기거나 컴잘알에게 물어보자.
 
-## 나름 파이썬 다뤄봤다는 사람을 위한 사용법
+## 나름 파이썬 다뤄봤다는 사람을 위한 사용법 1.1
 
 0. [Python을 설치](https://www.python.org/ftp/python/3.8.0/python-3.8.0.exe)한다
 > Add Python3.x to PATH 는 꼭 클릭한다.
@@ -44,7 +46,7 @@ XIN 강의의 사진과 영상(음성)을 자동으로 다운로드 해주는 �
 > 혹은 탐색기를 C://xxx/XIN_Picture_Downloader 에 위치시킨 후 주소창을 클릭한 후 "cmd ."을 입력하고 Enter를 입력한다
 
 3. 다음과 같이 라이브러리를 설치한다.
-> BeautifulSoup4가 이미 깔려있으신 개발자 분께서는 이 과정을 스킵하셔도 됩니다.
+> BeautifulSoup4와 Pillow가 이미 깔려있으신 개발자 분께서는 이 과정을 스킵하셔도 됩니다.
 
 ```
 pip install -r requirement.txt
