@@ -31,7 +31,7 @@ def getUrl(file):
             imX = imgX.convert("RGB")
             imgs.append(imX)
     im1.save("./download/slide.pdf", save_all=True, append_images=imgs)
-    print("Pictures Download & PDf conversion complete")
+    print("Pictures Download & PDF conversion complete")
     print("MP4 Downloading...",end='')
     q = re.compile("main_\([0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\)\.mp4")
     res2 = q.findall(atxt)
